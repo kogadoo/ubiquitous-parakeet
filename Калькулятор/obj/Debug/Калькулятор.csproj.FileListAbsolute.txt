@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
